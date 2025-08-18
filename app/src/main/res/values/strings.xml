@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meme Flex</string>
+    <string name="feed_title">Feed</string>
+    <string name="search_title">Search</string>
+    <string name="profile_title">Profile</string>
+    <string name="Post">Post</string>
+</resources>
